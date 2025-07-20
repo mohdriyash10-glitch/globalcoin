@@ -1,0 +1,1 @@
+// Core logic of GlobalCoin (placeholder)

@@ -1,0 +1,1 @@
+# Text-based wallet for GlobalCoin (placeholder)
